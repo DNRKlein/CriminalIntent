@@ -1,4 +1,4 @@
-package criminalintent.dnrklein.github.com.criminalintent;
+package com.github.dnrklein.criminalintent.criminalintent;
 
 import org.junit.Test;
 
